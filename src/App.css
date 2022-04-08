@@ -1,11 +1,19 @@
 .App {
   text-align: center;
+  margin-top: 20px;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
+button{
+  padding: 14px 24px;
+  margin-right: 14px;
+  background-color: yellow;
+  font-weight: 600;
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
